@@ -35,9 +35,13 @@ Funciones dentro del proyecto:
   
 ## Requerimientos
 
-Ejecutar desde Google Colab
+* Ejecutar desde Google Colab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CM0yzlbT9IFiK1WcgFzUApqQTNUjHHyp?authuser=1#scrollTo=X8bdmMUN0ReD)
+
+* Tener cuenta de kaggle.
+
+* Tener y actualizar credenciales para el API de Twitter y Reddit.
 
 ## Indicaciones
 Para ejecutar "Correr todas las celdas":
