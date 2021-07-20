@@ -1,0 +1,10 @@
+-q -U keras-tuner
+praw
+pytube
+PyYAML
+speechbrain
+transformers
+pydub
+librosa
+imageio-ffmpeg
+-q kaggle
