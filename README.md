@@ -44,6 +44,11 @@ Funciones dentro del proyecto:
 
 * Tener y actualizar credenciales para el API de Twitter y Reddit.
 
+**Opcional**
+* Descargar los pesos de los modelos: 
+
+ https://drive.google.com/file/d/1gPR6KZERy8jb4xHlZdSwvBJSI3wUhlrs/view?usp=sharing
+
 ## Indicaciones
 Para ejecutar "Correr todas las celdas":
 
