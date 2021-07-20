@@ -6,7 +6,7 @@ Proyecto integrador 2
 ## Reddit Extraction
 We used The Python Reddit API Wrapper (PRAW) to get per-user posts and analyze their sentiments. We eliminated any empty posts (most of them only have images with no text), and removed all of the Markdown syntax (including hyperlinks). After that we removed any r/subreddit or u/User as specified in the project specifications.
 
-In order to run this part of the project you'll need an [application setup in reddit](https://www.reddit.com/prefs/apps/) and simply copy the CLIENT_ID, CLIENT_SECRET, and USER_AGENT constants where specified in the notebook. We'll leave the credentials in the google colab link as we were using a throwaway account, but if you download this project you'll have to insert the credentials yourself. 
+In order to run this part of the project you'll need an [application setup in reddit](https://www.reddit.com/prefs/apps/) and simply copy the `CLIENT_ID`, `CLIENT_SECRET`, and `USER_AGENT` constants where specified in the notebook. We'll leave the credentials in the google colab link as we were using a throwaway account, but if you download this project you'll have to insert the credentials yourself. 
 
 Here's the example we used using "spez" as the user:
 ```python
