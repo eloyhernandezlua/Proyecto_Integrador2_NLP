@@ -37,7 +37,8 @@ Funciones dentro del proyecto:
 
 * Ejecutar desde Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/drive/1Fx8rsvv5IotawKibVsFzF0pnAIx8kW3d?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Fx8rsvv5IotawKibVsFzF0pnAIx8kW3d?usp=sharing)
+
 
 * Tener cuenta de kaggle.
 
